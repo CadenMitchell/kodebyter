@@ -1,11 +1,11 @@
 [Desktop Entry]
 Categories=Utility;
 Comment=Encrypt and decrypt secret messages.
-Exec=sh /usr/share/kodebyter/kodebyter.sh
-Icon=blender
+Exec=kodebyter
+Icon=/usr/share/kodebyter/kodebyter.svg
 Keywords=code;social;encrypt;decrypt;
 Name=CodeByter
 StartupNotify=false
 Terminal=true
 Type=Application
-Version=1.0
+Version=1.1
