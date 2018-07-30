@@ -1,7 +1,7 @@
 # Maintainer: Caden Mitchell <sidedvirus@outlook.com>
 
 pkgname="KodeByter"
-_pkgname="KodeByter"
+_pkgname="kodebyter"
 pkgver=1.3
 pkgrel=1.3
 pkgdesc='A program for encrypting and decrypting caesar cypher messages.'
