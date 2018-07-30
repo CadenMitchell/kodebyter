@@ -1,4 +1,4 @@
-# kodebyter
+# KodeByter
 A simple caesar cypher encrypter and decrypter.
 
 ## Features:
