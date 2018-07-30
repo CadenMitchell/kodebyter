@@ -18,6 +18,9 @@ package() {
 
     install -D -m 755 kodebyter.desktop \
     	 "${pkgdir}/usr/share/applications/kodebyter.desktop"
+         
+    install -D -m 755 kodebyter.py \
+    	 "${pkgdir}/usr/share/kodebyter/kodebyter.py"
 
     install -D -m 755 kodebyter.svg \
     	 "${pkgdir}/usr/share/kodebyter/kodebyter.svg"
