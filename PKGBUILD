@@ -2,8 +2,8 @@
 
 pkgname="KodeByter"
 _pkgname="kodebyter"
-pkgver=1.3
-pkgrel=1.3
+pkgver=1.4
+pkgrel=1.4
 pkgdesc='A program for encrypting and decrypting caesar cipher messages.'
 url='https://github.com/CadenMitchell/kodebyter/'
 arch=('any')
