@@ -1,5 +1,5 @@
 # KodeByter
-A simple caesar cypher encrypter and decrypter.
+A simple Caesar cipher encrypter and decrypter.
 
 ## Features:
 1) Small file size.
