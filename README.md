@@ -1,4 +1,4 @@
-# KodeByter
+# KodeByter GUI Branch [Pre-Alpha]
 A simple caesar cypher encrypter and decrypter.
 
 ## Features:
@@ -8,5 +8,6 @@ A simple caesar cypher encrypter and decrypter.
 4) Coded in Python for speed and stability
 5) Can be used along with email, social media, and direct messaging apps for easy sharing
 6) Is completely free and open source. Feel free to modify this source and make it your own
+7) Includes an easy-to-use GUI interface based on the stable Kivy platform
 
 _Get it today on [Reborn OS](https://rebornos.wordpress.com) repositories!_
