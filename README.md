@@ -1,6 +1,9 @@
 # KodeByter
 A simple Caesar cipher encrypter and decrypter.
 
+## Notice:
+_This branch has been officially discontinued. If you want to get the latest edition, please visit [this link to the new GitLab project](https://TriVoxel.page.link/kodebyter)._
+
 ## Features:
 1) Small file size.
 2) fast loading time using your default terminal.
